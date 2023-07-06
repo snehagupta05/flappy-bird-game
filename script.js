@@ -1,4 +1,4 @@
-let move_speed = 4, grativy = 0.5;
+let move_speed = 3, grativy = 0.5;
 let bird = document.querySelector('.bird');
 let img = document.getElementById('bird-1');
 let sound_point = new Audio('point.mp3');
